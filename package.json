@@ -1,0 +1,13 @@
+{
+  "name": "student-api",
+  "version": "1.0.0",
+  "description": "CRUD REST API for Students using Express and SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^4.22.3"
+  }
+}
